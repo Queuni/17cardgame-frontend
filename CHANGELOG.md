@@ -63,3 +63,6 @@
 
 ## 2026-01-14
 - Update the deployment docs with the new environment variables
+
+## 2025-12-05
+- Correct the default value for the feature flag in production

@@ -46,3 +46,5 @@
 # Add a small delay between retries to avoid thundering herd
 
 # Improve the default config so it works out of the box for dev
+
+# Bump the tool version and update the pre-commit hook config
