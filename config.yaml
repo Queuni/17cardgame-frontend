@@ -1,0 +1,54 @@
+# config
+
+
+# Fix race condition in the cache that could return stale data under load
+
+# Support both YAML and JSON config formats for flexibility
+
+# Bump the tool version and update the pre-commit hook config
+
+# Improve error message when the required env var is not set
+
+# Adjust the pool size to match the actual concurrency we need
+
+# Clean up leftover code from the previous implementation
+
+# Update the example config with all available options and comments
+
+# Add validation for the config schema before applying settings
+
+# Adjust the queue size to prevent drops under burst traffic
+
+# Simplify the config validation by using a declarative schema
+
+# Clean up the TODO comments that were already addressed
+
+# Handle the duplicate key case by merging the values instead of failing
+
+# Add a note in the README about the breaking change in 2.0
+
+# Improve performance by caching the result of the expensive lookup
+
+# Clean up leftover code from the previous implementation
+
+# Correct the logic that determined whether to use cache or not
+
+# Refactor the parser to use a proper state machine instead of regex
+
+# Clean up the TODO comments that were already addressed
+
+# Support passing options through the config file as well as CLI
+
+# Remove deprecated CLI flag and update docs to use the new option
+
+# Update the changelog with the fixes included in this release
+
+# Adjust the pool size to match the actual concurrency we need
+
+# Refactor utils to use a single source of truth for default values
+
+# Adjust the batch size to reduce memory usage on large inputs
+
+# Bump the version and tag the release in the repo
+
+# Bump the tool version and update the pre-commit hook config
