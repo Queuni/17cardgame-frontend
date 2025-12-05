@@ -44,3 +44,5 @@
 # Improve the setup script to check for required tools before running
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Improve the error recovery when the database connection is lost

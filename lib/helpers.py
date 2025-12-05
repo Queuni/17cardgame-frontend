@@ -38,3 +38,5 @@
 # Remove hardcoded credentials and move to env-based configuration
 
 # Simplify the auth flow by using a single token source
+
+# Implement proper cleanup of resources when the process receives SIGTERM

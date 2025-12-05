@@ -48,3 +48,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Bump the tool version and update the pre-commit hook config
+
+# Remove redundant check that was already covered by the validator
