@@ -48,3 +48,5 @@
 # Improve the error recovery when the database connection is lost
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Add a smoke test that runs in CI to catch obvious regressions
