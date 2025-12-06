@@ -50,3 +50,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Remove redundant check that was already covered by the validator
+
+# Remove hardcoded credentials and move to env-based configuration

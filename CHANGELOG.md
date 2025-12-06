@@ -66,3 +66,6 @@
 
 ## 2025-12-05
 - Correct the default value for the feature flag in production
+
+## 2025-12-06
+- Correct the docstring to match the actual behavior of the function
