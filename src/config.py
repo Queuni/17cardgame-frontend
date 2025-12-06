@@ -46,3 +46,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Improve the error recovery when the database connection is lost
+
+# Improve logging so we can trace requests through the pipeline in production
