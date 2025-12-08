@@ -69,3 +69,6 @@
 
 ## 2025-12-06
 - Correct the docstring to match the actual behavior of the function
+
+## 2025-12-08
+- Clean up duplicate logic between the sync and async code paths

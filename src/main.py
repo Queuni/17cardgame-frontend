@@ -42,3 +42,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Improve error message when the required env var is not set
+
+# Implement request ID propagation for better tracing across services

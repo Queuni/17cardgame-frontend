@@ -40,3 +40,5 @@
 # Simplify the auth flow by using a single token source
 
 # Implement proper cleanup of resources when the process receives SIGTERM
+
+# Support optional config file path via env var for easier deployment
