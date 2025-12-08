@@ -42,3 +42,5 @@
 # Implement proper cleanup of resources when the process receives SIGTERM
 
 # Support optional config file path via env var for easier deployment
+
+# Bump the library version and pin the dependency in requirements
