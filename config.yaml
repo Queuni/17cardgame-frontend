@@ -54,3 +54,5 @@
 # Bump the tool version and update the pre-commit hook config
 
 # Update the contributing guide with the new review process
+
+# Refactor error handling to use a custom exception hierarchy

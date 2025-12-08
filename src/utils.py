@@ -52,3 +52,5 @@
 # Remove redundant check that was already covered by the validator
 
 # Remove hardcoded credentials and move to env-based configuration
+
+# Simplify the auth flow by using a single token source
