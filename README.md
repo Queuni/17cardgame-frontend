@@ -54,3 +54,5 @@
 - Update the deployment docs with the new environment variables
 
 - Add proper error handling for invalid config so the app doesn't crash on startup
+
+- Refactor error handling to use a custom exception hierarchy
