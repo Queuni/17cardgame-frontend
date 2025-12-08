@@ -50,3 +50,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Add a smoke test that runs in CI to catch obvious regressions
+
+# Implement fallback to default value when config key is missing

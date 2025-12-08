@@ -52,3 +52,5 @@
 # Bump the version and tag the release in the repo
 
 # Bump the tool version and update the pre-commit hook config
+
+# Update the contributing guide with the new review process
