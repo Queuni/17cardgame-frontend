@@ -56,3 +56,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Support environment-specific overrides via separate config files
+
+# Clean up the deprecated alias and point callers to the new name

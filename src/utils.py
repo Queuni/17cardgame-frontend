@@ -56,3 +56,5 @@
 # Simplify the auth flow by using a single token source
 
 # Fix the test that was flaky due to reliance on system time
+
+# Fix bug where the parser would hang on malformed input
