@@ -58,3 +58,5 @@
 # Refactor error handling to use a custom exception hierarchy
 
 # Handle edge case when the response body is empty but status is 200
+
+# Implement proper cleanup of resources when the process receives SIGTERM
