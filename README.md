@@ -62,3 +62,5 @@
 - Add a comment explaining why we disable the linter on this line
 
 - Fix the off-by-one error in the date range iterator
+
+- Simplify error messages so they are actionable for the end user
