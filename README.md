@@ -56,3 +56,5 @@
 - Add proper error handling for invalid config so the app doesn't crash on startup
 
 - Refactor error handling to use a custom exception hierarchy
+
+- Simplify the main loop by extracting request handling into a dedicated function
