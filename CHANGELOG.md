@@ -72,3 +72,6 @@
 
 ## 2025-12-08
 - Clean up duplicate logic between the sync and async code paths
+
+## 2025-12-12
+- Correct the default so it matches what the documentation says

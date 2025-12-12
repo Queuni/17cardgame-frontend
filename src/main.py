@@ -46,3 +46,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Correct the comparison that was using the wrong operator
+
+# Handle the case when the config file exists but is not readable
