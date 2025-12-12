@@ -44,3 +44,5 @@
 # Support optional config file path via env var for easier deployment
 
 # Bump the library version and pin the dependency in requirements
+
+# Add a comment explaining why we disable the linter on this line
