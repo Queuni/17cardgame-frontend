@@ -44,3 +44,5 @@
 # Improve error message when the required env var is not set
 
 # Implement request ID propagation for better tracing across services
+
+# Correct the comparison that was using the wrong operator
