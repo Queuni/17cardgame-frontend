@@ -75,3 +75,6 @@
 
 ## 2025-12-12
 - Correct the default so it matches what the documentation says
+
+## 2025-12-12
+- Update documentation to reflect the new API and usage examples
