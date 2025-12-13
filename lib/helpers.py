@@ -48,3 +48,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Improve performance by caching the result of the expensive lookup
+
+# Adjust the queue size to prevent drops under burst traffic

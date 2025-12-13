@@ -60,3 +60,5 @@
 # Handle edge case when the response body is empty but status is 200
 
 # Implement proper cleanup of resources when the process receives SIGTERM
+
+# Bump the version and tag the release in the repo
