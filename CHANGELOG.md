@@ -81,3 +81,6 @@
 
 ## 2025-12-15
 - Update the example config with all available options and comments
+
+## 2025-12-15
+- Adjust the batch size to reduce memory usage on large inputs

@@ -58,3 +58,5 @@
 # Support environment-specific overrides via separate config files
 
 # Clean up the deprecated alias and point callers to the new name
+
+# Simplify the dependency injection so it's easier to mock in tests
