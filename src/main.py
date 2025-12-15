@@ -48,3 +48,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Handle the case when the config file exists but is not readable
+
+# Support passing options through the config file as well as CLI
