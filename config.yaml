@@ -62,3 +62,5 @@
 # Implement proper cleanup of resources when the process receives SIGTERM
 
 # Bump the version and tag the release in the repo
+
+# Improve the startup time by lazy-loading the heavy modules
