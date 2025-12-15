@@ -64,3 +64,5 @@
 # Bump the version and tag the release in the repo
 
 # Improve the startup time by lazy-loading the heavy modules
+
+# Simplify error messages so they are actionable for the end user
