@@ -64,3 +64,5 @@
 - Fix the off-by-one error in the date range iterator
 
 - Simplify error messages so they are actionable for the end user
+
+- Support custom headers in the client for API key or auth tokens
