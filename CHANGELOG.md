@@ -84,3 +84,6 @@
 
 ## 2025-12-15
 - Adjust the batch size to reduce memory usage on large inputs
+
+## 2025-12-15
+- Support custom headers in the client for API key or auth tokens
