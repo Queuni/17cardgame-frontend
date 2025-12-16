@@ -70,3 +70,5 @@
 # Improve the startup time by lazy-loading the heavy modules
 
 # Improve the startup time by lazy-loading the heavy modules
+
+# Fix race condition in the cache that could return stale data under load
