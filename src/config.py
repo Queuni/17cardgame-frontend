@@ -60,3 +60,5 @@
 # Clean up the deprecated alias and point callers to the new name
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Improve the error recovery when the database connection is lost

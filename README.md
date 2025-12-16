@@ -66,3 +66,5 @@
 - Simplify error messages so they are actionable for the end user
 
 - Support custom headers in the client for API key or auth tokens
+
+- Adjust the threshold so we only log when it's actually an issue
