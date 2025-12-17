@@ -68,3 +68,5 @@
 - Support custom headers in the client for API key or auth tokens
 
 - Adjust the threshold so we only log when it's actually an issue
+
+- Adjust buffer size for the stream reader to reduce memory usage
