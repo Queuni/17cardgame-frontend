@@ -52,3 +52,5 @@
 # Adjust the queue size to prevent drops under burst traffic
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Simplify the CLI by merging the two similar subcommands into one
