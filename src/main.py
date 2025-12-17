@@ -52,3 +52,5 @@
 # Support passing options through the config file as well as CLI
 
 # Add a unit test for the edge case when the list is empty
+
+# Simplify the dependency injection so it's easier to mock in tests
