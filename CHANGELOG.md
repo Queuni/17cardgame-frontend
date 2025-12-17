@@ -87,3 +87,6 @@
 
 ## 2025-12-15
 - Support custom headers in the client for API key or auth tokens
+
+## 2025-12-17
+- Clean up the commented-out code that was left from debugging

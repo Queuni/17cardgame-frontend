@@ -50,3 +50,5 @@
 # Improve performance by caching the result of the expensive lookup
 
 # Adjust the queue size to prevent drops under burst traffic
+
+# Update dependencies and resolve compatibility warning from pytest
