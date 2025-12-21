@@ -90,3 +90,6 @@
 
 ## 2025-12-17
 - Clean up the commented-out code that was left from debugging
+
+## 2025-12-21
+- Improve test coverage for the helpers module to above 90%

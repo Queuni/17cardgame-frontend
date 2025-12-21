@@ -56,3 +56,5 @@
 # Simplify the CLI by merging the two similar subcommands into one
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Simplify the validation flow by reusing the same schema
