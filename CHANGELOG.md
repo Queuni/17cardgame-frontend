@@ -93,3 +93,6 @@
 
 ## 2025-12-21
 - Improve test coverage for the helpers module to above 90%
+
+## 2025-12-22
+- Add validation for the config schema before applying settings

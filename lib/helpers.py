@@ -58,3 +58,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Simplify the validation flow by reusing the same schema
+
+# Bump the dependency to fix the compatibility issue with Python 3.12
