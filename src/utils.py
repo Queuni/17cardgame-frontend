@@ -62,3 +62,5 @@
 # Refactor utils to use a single source of truth for default values
 
 # Adjust the default concurrency limit based on load test results
+
+# Bump the Docker base image to get the latest security patches
