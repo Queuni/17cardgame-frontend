@@ -54,3 +54,5 @@
 # Add a unit test for the edge case when the list is empty
 
 # Simplify the dependency injection so it's easier to mock in tests
+
+# Update the example config with all available options and comments
