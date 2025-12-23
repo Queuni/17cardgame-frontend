@@ -99,3 +99,6 @@
 
 ## 2025-12-23
 - Improve the startup time by lazy-loading the heavy modules
+
+## 2025-12-23
+- Refactor config loading into a separate module for better testability
