@@ -56,3 +56,5 @@
 # Simplify the dependency injection so it's easier to mock in tests
 
 # Update the example config with all available options and comments
+
+# Correct the formula used for calculating the backoff delay

@@ -64,3 +64,5 @@
 # Improve the error recovery when the database connection is lost
 
 # Refactor the helper to accept an optional callback for progress
+
+# Implement a simple health check endpoint for the load balancer
