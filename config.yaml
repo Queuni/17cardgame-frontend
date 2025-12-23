@@ -78,3 +78,5 @@
 # Clean up the test fixtures and move shared data to a single file
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Simplify the auth flow by using a single token source

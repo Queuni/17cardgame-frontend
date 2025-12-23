@@ -62,3 +62,5 @@
 # Bump the dependency to fix the compatibility issue with Python 3.12
 
 # Fix the off-by-one error in the date range iterator
+
+# Correct the comparison that was using the wrong operator
