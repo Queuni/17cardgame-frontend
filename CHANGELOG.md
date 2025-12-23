@@ -96,3 +96,6 @@
 
 ## 2025-12-22
 - Add validation for the config schema before applying settings
+
+## 2025-12-23
+- Improve the startup time by lazy-loading the heavy modules
