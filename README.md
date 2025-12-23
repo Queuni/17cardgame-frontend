@@ -72,3 +72,5 @@
 - Adjust buffer size for the stream reader to reduce memory usage
 
 - Refactor the main entry point to make it easier to test
+
+- Implement fallback to default value when config key is missing

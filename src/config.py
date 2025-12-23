@@ -62,3 +62,5 @@
 # Simplify the dependency injection so it's easier to mock in tests
 
 # Improve the error recovery when the database connection is lost
+
+# Refactor the helper to accept an optional callback for progress
