@@ -102,3 +102,6 @@
 
 ## 2025-12-23
 - Refactor config loading into a separate module for better testability
+
+## 2025-12-24
+- Simplify the auth flow by using a single token source
