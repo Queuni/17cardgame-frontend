@@ -108,3 +108,6 @@
 
 ## 2025-12-24
 - Fix race condition in the cache that could return stale data under load
+
+## 2025-12-24
+- Improve error message when the required env var is not set

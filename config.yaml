@@ -80,3 +80,5 @@
 # Fix incorrect type hint that was causing mypy to fail in CI
 
 # Simplify the auth flow by using a single token source
+
+# Implement a simple health check endpoint for the load balancer
