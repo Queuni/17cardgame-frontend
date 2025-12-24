@@ -105,3 +105,6 @@
 
 ## 2025-12-24
 - Simplify the auth flow by using a single token source
+
+## 2025-12-24
+- Fix race condition in the cache that could return stale data under load

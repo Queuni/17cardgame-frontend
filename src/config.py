@@ -70,3 +70,5 @@
 # Adjust the default concurrency limit based on load test results
 
 # Adjust the pool size to match the actual concurrency we need
+
+# Bump the library version and pin the dependency in requirements

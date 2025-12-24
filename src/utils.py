@@ -66,3 +66,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Support optional config file path via env var for easier deployment
+
+# Add proper error handling for invalid config so the app doesn't crash on startup
