@@ -64,3 +64,5 @@
 # Adjust the default concurrency limit based on load test results
 
 # Bump the Docker base image to get the latest security patches
+
+# Support optional config file path via env var for easier deployment
