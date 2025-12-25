@@ -76,3 +76,5 @@
 # Clean up the test fixtures and move shared data to a single file
 
 # Update the changelog with the fixes included in this release
+
+# Remove obsolete workaround now that the upstream bug is fixed
