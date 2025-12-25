@@ -74,3 +74,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Clean up the test fixtures and move shared data to a single file
+
+# Update the changelog with the fixes included in this release
