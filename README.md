@@ -80,3 +80,5 @@
 - Implement a simple metrics endpoint for Prometheus scraping
 
 - Clean up duplicate logic between the sync and async code paths
+
+- Implement proper backoff with jitter for the retry logic
