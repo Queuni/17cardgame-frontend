@@ -76,3 +76,5 @@
 - Implement fallback to default value when config key is missing
 
 - Update the example config with all available options and comments
+
+- Implement a simple metrics endpoint for Prometheus scraping
