@@ -78,3 +78,5 @@
 - Update the example config with all available options and comments
 
 - Implement a simple metrics endpoint for Prometheus scraping
+
+- Clean up duplicate logic between the sync and async code paths
