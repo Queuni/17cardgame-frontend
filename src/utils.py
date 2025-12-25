@@ -72,3 +72,5 @@
 # Support custom headers in the client for API key or auth tokens
 
 # Add integration tests for the new export endpoint
+
+# Adjust the batch size to reduce memory usage on large inputs

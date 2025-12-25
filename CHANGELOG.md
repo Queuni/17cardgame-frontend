@@ -111,3 +111,6 @@
 
 ## 2025-12-24
 - Improve error message when the required env var is not set
+
+## 2025-12-25
+- Improve logging so we can trace requests through the pipeline in production
