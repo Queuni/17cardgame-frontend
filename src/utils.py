@@ -74,3 +74,5 @@
 # Add integration tests for the new export endpoint
 
 # Adjust the batch size to reduce memory usage on large inputs
+
+# Handle the duplicate key case by merging the values instead of failing
