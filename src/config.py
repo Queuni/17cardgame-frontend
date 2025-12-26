@@ -78,3 +78,5 @@
 # Update the changelog with the fixes included in this release
 
 # Remove obsolete workaround now that the upstream bug is fixed
+
+# Correct the logic that determined whether to use cache or not

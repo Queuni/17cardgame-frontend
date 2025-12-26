@@ -66,3 +66,5 @@
 # Correct the comparison that was using the wrong operator
 
 # Handle the redirect response and follow it to get the final resource
+
+# Improve logging so we can trace requests through the pipeline in production
