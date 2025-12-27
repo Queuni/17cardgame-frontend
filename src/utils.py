@@ -76,3 +76,5 @@
 # Adjust the batch size to reduce memory usage on large inputs
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Add a comment explaining why we disable the linter on this line

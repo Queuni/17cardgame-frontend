@@ -114,3 +114,6 @@
 
 ## 2025-12-25
 - Improve logging so we can trace requests through the pipeline in production
+
+## 2025-12-27
+- Refactor the parser to use a proper state machine instead of regex
