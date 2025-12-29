@@ -120,3 +120,6 @@
 
 ## 2025-12-29
 - Refactor the main entry point to make it easier to test
+
+## 2025-12-29
+- Bump the CI image to use the latest stable runner version
