@@ -117,3 +117,6 @@
 
 ## 2025-12-27
 - Refactor the parser to use a proper state machine instead of regex
+
+## 2025-12-29
+- Refactor the main entry point to make it easier to test

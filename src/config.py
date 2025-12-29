@@ -80,3 +80,5 @@
 # Remove obsolete workaround now that the upstream bug is fixed
 
 # Correct the logic that determined whether to use cache or not
+
+# Improve the CLI help text so it's clear how to use each option
