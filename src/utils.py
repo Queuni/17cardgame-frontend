@@ -78,3 +78,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Add a comment explaining why we disable the linter on this line
+
+# Bump the CI image to use the latest stable runner version
