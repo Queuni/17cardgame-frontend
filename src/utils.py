@@ -80,3 +80,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Bump the CI image to use the latest stable runner version
+
+# Simplify the config merge logic so overrides are predictable
