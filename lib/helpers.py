@@ -68,3 +68,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Support passing secrets via a separate file for security

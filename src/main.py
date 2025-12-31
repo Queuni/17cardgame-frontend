@@ -58,3 +58,5 @@
 # Update the example config with all available options and comments
 
 # Correct the formula used for calculating the backoff delay
+
+# Add a comment explaining why we disable the linter on this line
