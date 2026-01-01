@@ -84,3 +84,5 @@
 - Implement proper backoff with jitter for the retry logic
 
 - Clean up duplicate logic between the sync and async code paths
+
+- Correct the timestamp format to use ISO 8601 for consistency

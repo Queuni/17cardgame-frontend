@@ -82,3 +82,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Simplify the config merge logic so overrides are predictable
+
+# Simplify the auth flow by using a single token source
