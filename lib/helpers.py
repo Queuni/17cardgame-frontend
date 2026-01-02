@@ -70,3 +70,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Support passing secrets via a separate file for security
+
+# Adjust buffer size for the stream reader to reduce memory usage
