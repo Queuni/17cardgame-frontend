@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "270478936247",
+    "firebase_url": "https://cardgame-firebase-default-rtdb.firebaseio.com",
+    "project_id": "cardgame-firebase",
+    "storage_bucket": "cardgame-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270478936247:android:88ef859bb0027a2a36a532",
+        "android_client_info": {
+          "package_name": "com.bvbapps.SeventeenGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5skiSOAILTt1tsmjpYp6vdKoVYy6KamE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

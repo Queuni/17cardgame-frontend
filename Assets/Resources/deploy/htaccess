@@ -1,0 +1,52 @@
+# Disable WordPress rewrites ONLY in this folder
+RewriteEngine Off
+
+# ===========================
+# Correct MIME Types
+# ===========================
+
+AddType application/wasm .wasm
+AddType application/wasm .wasm.gz
+AddType application/octet-stream .unityweb
+AddType application/octet-stream .data
+AddType application/javascript .js
+AddType application/json .json
+
+# ===========================
+# GZIP Precompressed Support
+# ===========================
+
+AddEncoding gzip .gz
+
+# WASM
+<FilesMatch "\.wasm\.gz$">
+    ForceType application/wasm
+    Header set Content-Type "application/wasm"
+    Header set Content-Encoding gzip
+</FilesMatch>
+
+# JS
+<FilesMatch "\.js\.gz$">
+    ForceType application/javascript
+    Header set Content-Type "application/javascript"
+    Header set Content-Encoding gzip
+</FilesMatch>
+
+# DATA
+<FilesMatch "\.data\.gz$">
+    ForceType application/octet-stream
+    Header set Content-Type "application/octet-stream"
+    Header set Content-Encoding gzip
+</FilesMatch>
+
+# ===========================
+# Cache optimization
+# ===========================
+<FilesMatch "\.(gz|wasm|js|data|unityweb)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+</FilesMatch>
+
+# ===========================
+# CORS – Required for Unity
+# ===========================
+Header set Access-Control-Allow-Origin "*"
